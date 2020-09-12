@@ -1,2 +1,3 @@
 # hello-world
 I am learning from the very beginnings... 
+This is the first exercise in the Intro to GitHub course. Thank you for your patience.
